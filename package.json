@@ -1,6 +1,8 @@
 {
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Um projeto que faz algo incrível",
   "dependencies": {
     "http-server": "^14.1.1"
-  },
-  "description": "NPM exercises"
+  }
 }
